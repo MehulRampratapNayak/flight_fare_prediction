@@ -60,9 +60,9 @@ Activate the virtual environment
 ```bash
 cd env_name
 
-```
-Scripts\activate.bat
 ```bash
+Scripts\activate.bat
+```
 
 ## Tech
 
