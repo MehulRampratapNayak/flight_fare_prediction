@@ -65,21 +65,18 @@ source env_name/bin/activate
 
 ## Tech
 
-![Tech]("C:\Mehul\Data Scientist\Machine Learning\Projects\Mehul-Flight Fare Prediction\Img\img.png")
+![img](https://user-images.githubusercontent.com/102470567/194716449-101eb1e7-51e4-4c07-9999-fb0096d352b8.png)
 
 ## Commonds For Running Flask Application in Local System
 
 ```bash
-python3 -m flask run
+python app .py
 ```
 
 ## Project Deployed Link 
 
 - https://ffprediction.herokuapp.com/ 
 
-
-- [Deployed Link](https://ffprediction.herokuapp.com/)
-- [Deployed Link](https://flightfareprediction.azurewebsites.net/)
 
 ## Output Images
 
