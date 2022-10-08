@@ -5,11 +5,11 @@
 ```bash
 echo "# Ineuron internship Project" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add .
+git commit -m "flight_fare_prediction"
 git branch -M main
-git remote add origin https://github.com/bhushanasati25/ineuron-intern-Project.git
-git push -u origin main
+git remote add origin https://github.com/MehulRampratapNayak/flight_fare_prediction.git
+git push origin main
 ```
 
 ## Project Title :- Flight Fare Predication
@@ -76,19 +76,16 @@ python3 -m flask run
 ## Project Deployed Link 
 
 - https://ffprediction.herokuapp.com/ 
-- https://flightfareprediction.azurewebsites.net/
+
 
 - [Deployed Link](https://ffprediction.herokuapp.com/)
 - [Deployed Link](https://flightfareprediction.azurewebsites.net/)
 
 ## Output Images
 
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output1.png)
-![Output](https://github.com/bhushanasati25/ineuron-intern-Project/blob/main/Output%20Images/Output2.png)
+![Output 1](https://user-images.githubusercontent.com/102470567/194716325-9963f6e2-9846-4ef2-9fb4-12ed8083722b.png)
+![Output 2](https://user-images.githubusercontent.com/102470567/194716335-0a74af11-aa7a-4299-9882-dc43d44b9554.png)
 
-## Authors
 
-- [@bhushanasati25](https://github.com/bhushanasati25)
-- [@ashamandale](https://github.com/ashamandale)
 
 
