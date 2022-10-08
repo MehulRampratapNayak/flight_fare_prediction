@@ -76,13 +76,13 @@ python app .py
 
 ## Project Deployed Link 
 
-- https://ffprediction.herokuapp.com/ 
+- https://predictflight-fare.herokuapp.com/
 
 
 ## Output Images
 
-![Output 1](https://user-images.githubusercontent.com/102470567/194716325-9963f6e2-9846-4ef2-9fb4-12ed8083722b.png)
-![Output 2](https://user-images.githubusercontent.com/102470567/194716335-0a74af11-aa7a-4299-9882-dc43d44b9554.png)
+Output 1
+Output 2.png
 
 
 
