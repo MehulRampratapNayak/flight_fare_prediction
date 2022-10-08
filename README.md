@@ -1,16 +1,4 @@
 # Project:- Flight Fare Prediction
-
-## Github Push-Pull Commands
-
-```bash
-git init
-git add .
-git commit -m "flight_fare_prediction"
-git branch -M main
-git remote add origin https://github.com/MehulRampratapNayak/flight_fare_prediction.git
-git push origin main
-```
-
 ## Project Title :- Flight Fare Predication
 
 ## Problem Statement
@@ -23,6 +11,17 @@ the provided dataset.
 ## Approach
 
 - The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building, and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
+
+## Github Push-Pull Commands
+
+```bash
+git init
+git add .
+git commit -m "flight_fare_prediction"
+git branch -M main
+git remote add origin https://github.com/MehulRampratapNayak/flight_fare_prediction.git
+git push origin main
+```
 
 ## DataSet 
 
@@ -60,8 +59,10 @@ Activate the virtual environment
 
 ```bash
 cd env_name
-Scripts\activate.bat
+
 ```
+Scripts\activate.bat
+```bash
 
 ## Tech
 
