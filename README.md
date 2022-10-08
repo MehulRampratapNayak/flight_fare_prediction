@@ -31,14 +31,14 @@ https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
 ```
 ## Steps
 
-1.  Importing the Liberary
+1.  Importing the Library
 2.  Reading Dataset
 3.  Data Preprocessing
 4.  Exploratory Data Analysis(EDA)
-5.  Handling Categorical as well as Numarical Data
+5.  Handling Categorical as well as Numerical Data
 7.  Performing Feature Selection
 8.  Model Training 
-9.  Making pkl file
+9.  Making pickle file
 10. Testing
 11. Production
 12. Deployment
@@ -56,10 +56,11 @@ Create the virtual environment
 ```bash
 virtualenv env_name
 ```
-Activate the virtual environment0
+Activate the virtual environment
 
 ```bash
-source env_name/bin/activate
+cd env_name
+Scripts\activate.bat
 ```
 
 ## Tech
