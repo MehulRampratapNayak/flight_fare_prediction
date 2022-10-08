@@ -59,7 +59,7 @@ Activate the virtual environment
 
 ```bash
 cd env_name
-
+```
 ```bash
 Scripts\activate.bat
 ```
