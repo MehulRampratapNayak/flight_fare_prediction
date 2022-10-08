@@ -1,9 +1,8 @@
 # Project:- Flight Fare Prediction
 
-## Github Push Pull Commonds
+## Github Push-Pull Commands
 
 ```bash
-echo "# Ineuron internship Project" >> README.md
 git init
 git add .
 git commit -m "flight_fare_prediction"
@@ -25,7 +24,7 @@ the provided dataset.
 
 - The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building, and Model Testing. Try out different machine learning algorithms that’s best fit for the above case.
 
-## Data set 
+## DataSet 
 
 ```bash
 https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh
