@@ -71,7 +71,7 @@ Scripts\activate.bat
 ## Commonds For Running Flask Application in Local System
 
 ```bash
-python app .py
+python app.py
 ```
 
 ## Project Deployed Link 
