@@ -78,11 +78,10 @@ python app.py
 
 - https://predictflight-fare.herokuapp.com/
 
+## **Project Demo Video :**
 
-## Output Images
+https://user-images.githubusercontent.com/102470567/198003088-9863a188-7061-4e99-939a-e2fc13c844bf.mp4
 
-![Output 1](https://user-images.githubusercontent.com/102470567/194718247-17c4e96c-6618-4d4f-b6d4-17fe705fe5b9.png)
-![Output 2](https://user-images.githubusercontent.com/102470567/194718252-e0e0b0c8-cd79-4cd4-9f40-a111e5ee9ba1.png)
 
 
 
